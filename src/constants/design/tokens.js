@@ -3,9 +3,6 @@
  * Standard design system tokens 
  */
 
-export { Colors } from './theme';
-
-
 export const Typography = {
     fontSize: {
         medium: 16,
