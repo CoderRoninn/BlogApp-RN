@@ -3,6 +3,9 @@
 A simple mobile blog application built with **React Native (Expo)** and a **JSON Server** backend.  
 Users can create, edit, delete and view blog posts with a clean, card–based UI.
 
+
+
+
 ---
 
 ## ✨ Features
