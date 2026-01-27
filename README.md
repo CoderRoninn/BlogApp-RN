@@ -4,7 +4,7 @@ A simple mobile blog application built with **React Native (Expo)** and a **JSON
 Users can create, edit, delete and view blog posts with a clean, card–based UI.
 
 
-![Uploading Kayıt 2026-01-27 145801.gif…]()
+
 
 
 
