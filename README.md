@@ -4,6 +4,7 @@ A simple mobile blog application built with **React Native (Expo)** and a **JSON
 Users can create, edit, delete and view blog posts with a clean, card–based UI.
 
 
+![Kayıt 2026-01-27 145801](https://github.com/user-attachments/assets/d42eb48b-a594-409c-8e83-1d46ff0510b3)
 
 
 
