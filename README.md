@@ -58,7 +58,7 @@ Users can create, edit, delete and view blog posts with a clean, card–based UI
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/yourusername/blog_app.git
+git clone https://github.com/CoderRoninn/blog_app.git
 cd blog_app
 ```
 
